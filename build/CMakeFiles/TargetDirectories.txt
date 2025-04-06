@@ -1,0 +1,3 @@
+D:/goquant/build/CMakeFiles/main.dir
+D:/goquant/build/CMakeFiles/edit_cache.dir
+D:/goquant/build/CMakeFiles/rebuild_cache.dir
